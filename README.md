@@ -2,6 +2,8 @@
 
 > 博客地址：[只需体验三分钟，你就会跟我一样，爱上这款Toast](https://www.jianshu.com/p/9b174ee2c571)
 
+> [Toast通知栏权限填坑指南](https://www.jianshu.com/p/1d64a5ccbc7c)
+
 > 已投入公司项目多时，没有任何毛病，可胜任任何需求，[点击此处下载Demo](https://raw.githubusercontent.com/getActivity/ToastUtils/master/ToastUtils.apk)
 
 > 想了解实现原理的可以点击此链接查看：[ToastUtils](https://github.com/getActivity/ToastUtils/blob/master/library/src/main/java/com/hjq/toast/ToastUtils.java) 源码
